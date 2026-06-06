@@ -18,14 +18,14 @@ int main() {
     vector<Negara> daftarNegara = {
         {"Amerika", {"Am_r__a", "_me_i_a", "Am__ik_", "A_er_ka"}},
         {"Indonesia", {"I__o__si_", "_ndo_e_ia", "Ind____sia"}},
-        {"Malaysia", {"M_l__si_", "_alays__"}},
+        {"Malaysia", {"M_l__si_", "_alays__", "M__ays_a"}},
         {"Singapura", {"S__ga__ra", "_ingap_ra", "S_ng__u_a"}},
-        {"Thailand", {"T__il__d", "_hai_an_"}},
-        {"Jepang", {"J_p__g", "_ep_ng"}},
-        {"Kanada", {"K_n_d_", "_anad_"}},
-        {"Brazil", {"B_a_i_", "_ra_il"}},
-        {"Argentina", {"A_g_n_i__", "__gen_ina"}},
-        {"Filipina", {"F_l_p_n_", "_ili__na"}}
+        {"Thailand", {"T__il__d", "_hai_an_", "Tha___nd"}},
+        {"Jepang", {"J_p__g", "_ep_ng", "Je_a__"}},
+        {"Kanada", {"K_n_d_", "_anad_", "Ka_a_a"}},
+        {"Brazil", {"B_a_i_", "_ra_il", "Br___l"}},
+        {"Argentina", {"A_g_n_i__", "__gen_ina", "_rge___na"}},
+        {"Filipina", {"F_l_p_n_", "_ili__na", "Fi__p_na"}},
     };
 
     int poin = 0;
