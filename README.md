@@ -27,6 +27,6 @@
   - Tiap jawaban benar dapat 1 poin, salah tidak dapat poin dan output jawaban yang benar
   - Terdapat konfirmasi apakah user ingin mengulang atau tidak, apabila tidak maka program output poin total
 
+## Screenshot Output: https://drive.google.com/drive/folders/1MMouo80ja_YvH7eDogPwU1B90NNCuKBg?usp=drive_link
 
-
-Screenshot Output: https://drive.google.com/drive/folders/1MMouo80ja_YvH7eDogPwU1B90NNCuKBg?usp=drive_link
+## Link YouTube: https://youtu.be/BdpbCMMJmLM?si=J1HbMz6QFHHHTYeL
